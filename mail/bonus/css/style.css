@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#contenitore {
+    text-align: center;
+    padding-top: 200px;
+}
+
+p {
+    font-size: 20px;
+    margin: 10px 0;
+}
