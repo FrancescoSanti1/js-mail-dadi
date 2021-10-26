@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#contDado {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contDado div {
+    background-color: rgb(30, 185, 134);
+    color: beige;
+    text-decoration: none;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    cursor: pointer;
+}
+
+#risultato {
+    min-height: 50px;
+}
+
+#risultato p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#punteggio {
+    text-align: center;
+}
